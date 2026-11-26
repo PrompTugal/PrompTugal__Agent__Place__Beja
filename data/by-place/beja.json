@@ -424,7 +424,7 @@
   }
  ],
  "latest_news": {
-  "read_at": "2026-11-26T02:34Z",
+  "read_at": "2026-11-26T11:22Z",
   "by": "place.beja@PrompTugal.dinis (run by cl-6.places@PrompTugal.dinis)",
   "about": "Headlines read from the place's local outlets' public feeds: headline, link, source and time read only; nothing is copied from the articles. The sources' licences are not cleared by rights@, so these are leads with links, not for republication. Items with mentions_place true name the place in the headline.",
   "main_headline": {
@@ -432,10 +432,21 @@
    "url": "https://www.radiopax.com/seguro-reune-autarcas-e-deputados-do-alentejo-presidente-da-republica-prepara-passagem-pela-regiao-e-visita-a-beja/",
    "source": "Rádio Pax",
    "date": "2026-11-26",
-   "read_at": "2026-11-26T02:33:11Z",
+   "read_at": "2026-11-26T11:16:23Z",
    "names_place": true
   },
   "items": [
+   {
+    "title": "NOTICIÁRIO 26-11-2026",
+    "url": "https://www.radiopax.com/noticiario-26-11-2026/",
+    "published": "2026-11-26T08:30Z",
+    "source": "Rádio Pax",
+    "source_site": "https://www.radiopax.com/",
+    "feed": "https://www.radiopax.com/feed/",
+    "read_at": "2026-11-26T11:16:23Z",
+    "mentions_place": false,
+    "date": "2026-11-26"
+   },
    {
     "title": "Seguro reúne autarcas e deputados do Alentejo: Presidente da República prepara passagem pela região e visita a Beja",
     "url": "https://www.radiopax.com/seguro-reune-autarcas-e-deputados-do-alentejo-presidente-da-republica-prepara-passagem-pela-regiao-e-visita-a-beja/",
@@ -443,7 +454,7 @@
     "source": "Rádio Pax",
     "source_site": "https://www.radiopax.com/",
     "feed": "https://www.radiopax.com/feed/",
-    "read_at": "2026-11-26T02:33:11Z",
+    "read_at": "2026-11-26T11:16:23Z",
     "mentions_place": true,
     "date": "2026-11-26"
    },
@@ -454,7 +465,7 @@
     "source": "Rádio Pax",
     "source_site": "https://www.radiopax.com/",
     "feed": "https://www.radiopax.com/feed/",
-    "read_at": "2026-11-26T02:33:11Z",
+    "read_at": "2026-11-26T11:16:23Z",
     "mentions_place": true,
     "date": "2026-11-26"
    },
@@ -465,7 +476,7 @@
     "source": "Rádio Pax",
     "source_site": "https://www.radiopax.com/",
     "feed": "https://www.radiopax.com/feed/",
-    "read_at": "2026-11-26T02:33:11Z",
+    "read_at": "2026-11-26T11:16:23Z",
     "mentions_place": true,
     "date": "2026-11-26"
    },
@@ -476,7 +487,7 @@
     "source": "Rádio Pax",
     "source_site": "https://www.radiopax.com/",
     "feed": "https://www.radiopax.com/feed/",
-    "read_at": "2026-11-26T02:33:11Z",
+    "read_at": "2026-11-26T11:16:23Z",
     "mentions_place": true,
     "date": "2026-11-26"
    },
@@ -487,19 +498,8 @@
     "source": "Rádio Pax",
     "source_site": "https://www.radiopax.com/",
     "feed": "https://www.radiopax.com/feed/",
-    "read_at": "2026-11-26T02:33:11Z",
+    "read_at": "2026-11-26T11:16:23Z",
     "mentions_place": true,
-    "date": "2026-11-26"
-   },
-   {
-    "title": "Hollywood invade Almodôvar: Carnaval de 2027 promete espetáculo de cinema com prémios em dinheiro",
-    "url": "https://www.radiopax.com/hollywood-invade-almodovar-carnaval-de-2027-promete-espetaculo-de-cinema-com-premios-em-dinheiro/",
-    "published": "2026-11-26T00:10Z",
-    "source": "Rádio Pax",
-    "source_site": "https://www.radiopax.com/",
-    "feed": "https://www.radiopax.com/feed/",
-    "read_at": "2026-11-26T02:33:11Z",
-    "mentions_place": false,
     "date": "2026-11-26"
    },
    {
@@ -509,7 +509,7 @@
     "source": "Alentejo Atual (O Atual)",
     "source_site": "https://www.oatual.pt/",
     "feed": "https://www.oatual.pt/feed/",
-    "read_at": "2026-11-26T02:33:01Z",
+    "read_at": "2026-11-26T11:16:13Z",
     "mentions_place": true,
     "date": "2026-11-26"
    },
@@ -520,7 +520,18 @@
     "source": "Alentejo Atual (O Atual)",
     "source_site": "https://www.oatual.pt/",
     "feed": "https://www.oatual.pt/feed/",
-    "read_at": "2026-11-26T02:33:01Z",
+    "read_at": "2026-11-26T11:16:13Z",
+    "mentions_place": false,
+    "date": "2026-11-26"
+   },
+   {
+    "title": "MOURA AVANÇA COM REABILITAÇÃO DE ARRUAMENTOS NO BAIRRO DO SETE E MEIO",
+    "url": "https://www.oatual.pt/noticias/moura-avanca-com-reabilitacao-de-arruamentos-no-bairro-do-sete-e-meio",
+    "published": "2026-11-26T00:04Z",
+    "source": "Alentejo Atual (O Atual)",
+    "source_site": "https://www.oatual.pt/",
+    "feed": "https://www.oatual.pt/feed/",
+    "read_at": "2026-11-26T11:16:13Z",
     "mentions_place": false,
     "date": "2026-11-26"
    },
@@ -531,7 +542,7 @@
     "source": "Alentejo Atual (O Atual)",
     "source_site": "https://www.oatual.pt/",
     "feed": "https://www.oatual.pt/feed/",
-    "read_at": "2026-11-26T02:33:01Z",
+    "read_at": "2026-11-26T11:16:13Z",
     "mentions_place": false,
     "date": "2026-11-26"
    },
@@ -542,7 +553,7 @@
     "source": "Alentejo Atual (O Atual)",
     "source_site": "https://www.oatual.pt/",
     "feed": "https://www.oatual.pt/feed/",
-    "read_at": "2026-11-26T02:33:01Z",
+    "read_at": "2026-11-26T11:16:13Z",
     "mentions_place": true,
     "date": "2026-11-26"
    },
@@ -553,19 +564,8 @@
     "source": "Alentejo Atual (O Atual)",
     "source_site": "https://www.oatual.pt/",
     "feed": "https://www.oatual.pt/feed/",
-    "read_at": "2026-11-26T02:33:01Z",
+    "read_at": "2026-11-26T11:16:13Z",
     "mentions_place": true,
-    "date": "2026-11-26"
-   },
-   {
-    "title": "ÉVORA ENTRE OS 13 MELHORES DESTINOS EUROPEUS PARA VISITAR EM 2027",
-    "url": "https://www.oatual.pt/noticias/evora-entre-os-13-melhores-destinos-europeus-para-visitar-em-2027",
-    "published": "2026-11-26T00:01Z",
-    "source": "Alentejo Atual (O Atual)",
-    "source_site": "https://www.oatual.pt/",
-    "feed": "https://www.oatual.pt/feed/",
-    "read_at": "2026-11-26T02:33:01Z",
-    "mentions_place": false,
     "date": "2026-11-26"
    },
    {
@@ -575,7 +575,7 @@
     "source": "Jornal de Beja",
     "source_site": "https://jornaldebeja.sapo.pt/",
     "feed": "https://jornaldebeja.sapo.pt/feed/",
-    "read_at": "2026-11-26T02:33:07Z",
+    "read_at": "2026-11-26T11:16:19Z",
     "mentions_place": true,
     "date": null
    },
@@ -586,7 +586,7 @@
     "source": "Jornal de Beja",
     "source_site": "https://jornaldebeja.sapo.pt/",
     "feed": "https://jornaldebeja.sapo.pt/feed/",
-    "read_at": "2026-11-26T02:33:07Z",
+    "read_at": "2026-11-26T11:16:19Z",
     "mentions_place": true,
     "date": null
    },
@@ -597,7 +597,7 @@
     "source": "Jornal de Beja",
     "source_site": "https://jornaldebeja.sapo.pt/",
     "feed": "https://jornaldebeja.sapo.pt/feed/",
-    "read_at": "2026-11-26T02:33:07Z",
+    "read_at": "2026-11-26T11:16:19Z",
     "mentions_place": true,
     "date": null
    },
@@ -608,7 +608,7 @@
     "source": "Jornal de Beja",
     "source_site": "https://jornaldebeja.sapo.pt/",
     "feed": "https://jornaldebeja.sapo.pt/feed/",
-    "read_at": "2026-11-26T02:33:07Z",
+    "read_at": "2026-11-26T11:16:19Z",
     "mentions_place": false,
     "date": null
    },
@@ -619,7 +619,7 @@
     "source": "Jornal de Beja",
     "source_site": "https://jornaldebeja.sapo.pt/",
     "feed": "https://jornaldebeja.sapo.pt/feed/",
-    "read_at": "2026-11-26T02:33:07Z",
+    "read_at": "2026-11-26T11:16:19Z",
     "mentions_place": true,
     "date": null
    },
@@ -630,7 +630,7 @@
     "source": "Jornal de Beja",
     "source_site": "https://jornaldebeja.sapo.pt/",
     "feed": "https://jornaldebeja.sapo.pt/feed/",
-    "read_at": "2026-11-26T02:33:07Z",
+    "read_at": "2026-11-26T11:16:19Z",
     "mentions_place": true,
     "date": null
    }
