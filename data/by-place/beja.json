@@ -424,7 +424,7 @@
   }
  ],
  "latest_news": {
-  "read_at": "2026-11-26T11:22Z",
+  "read_at": "2026-11-26T18:38Z",
   "by": "place.beja@PrompTugal.dinis (run by cl-6.places@PrompTugal.dinis)",
   "about": "Headlines read from the place's local outlets' public feeds: headline, link, source and time read only; nothing is copied from the articles. The sources' licences are not cleared by rights@, so these are leads with links, not for republication. Items with mentions_place true name the place in the headline.",
   "main_headline": {
@@ -432,10 +432,21 @@
    "url": "https://www.radiopax.com/seguro-reune-autarcas-e-deputados-do-alentejo-presidente-da-republica-prepara-passagem-pela-regiao-e-visita-a-beja/",
    "source": "Rádio Pax",
    "date": "2026-11-26",
-   "read_at": "2026-11-26T11:16:23Z",
+   "read_at": "2026-11-26T18:31:47Z",
    "names_place": true
   },
   "items": [
+   {
+    "title": "VITIVINICULTURA VIVE MUDANÇA ESTRUTURAL QUE ABRE UMA JANELA DE OPORTUNIDADES",
+    "url": "https://www.oatual.pt/noticias/vitivinicultura-vive-mudanca-estrutural-que-abre-uma-janela-de-oportunidades",
+    "published": "2026-11-26T11:58Z",
+    "source": "Alentejo Atual (O Atual)",
+    "source_site": "https://www.oatual.pt/",
+    "feed": "https://www.oatual.pt/feed/",
+    "read_at": "2026-11-26T18:31:37Z",
+    "mentions_place": false,
+    "date": "2026-11-26"
+   },
    {
     "title": "NOTICIÁRIO 26-11-2026",
     "url": "https://www.radiopax.com/noticiario-26-11-2026/",
@@ -443,7 +454,7 @@
     "source": "Rádio Pax",
     "source_site": "https://www.radiopax.com/",
     "feed": "https://www.radiopax.com/feed/",
-    "read_at": "2026-11-26T11:16:23Z",
+    "read_at": "2026-11-26T18:31:47Z",
     "mentions_place": false,
     "date": "2026-11-26"
    },
@@ -454,7 +465,7 @@
     "source": "Rádio Pax",
     "source_site": "https://www.radiopax.com/",
     "feed": "https://www.radiopax.com/feed/",
-    "read_at": "2026-11-26T11:16:23Z",
+    "read_at": "2026-11-26T18:31:47Z",
     "mentions_place": true,
     "date": "2026-11-26"
    },
@@ -465,7 +476,7 @@
     "source": "Rádio Pax",
     "source_site": "https://www.radiopax.com/",
     "feed": "https://www.radiopax.com/feed/",
-    "read_at": "2026-11-26T11:16:23Z",
+    "read_at": "2026-11-26T18:31:47Z",
     "mentions_place": true,
     "date": "2026-11-26"
    },
@@ -476,7 +487,7 @@
     "source": "Rádio Pax",
     "source_site": "https://www.radiopax.com/",
     "feed": "https://www.radiopax.com/feed/",
-    "read_at": "2026-11-26T11:16:23Z",
+    "read_at": "2026-11-26T18:31:47Z",
     "mentions_place": true,
     "date": "2026-11-26"
    },
@@ -487,7 +498,7 @@
     "source": "Rádio Pax",
     "source_site": "https://www.radiopax.com/",
     "feed": "https://www.radiopax.com/feed/",
-    "read_at": "2026-11-26T11:16:23Z",
+    "read_at": "2026-11-26T18:31:47Z",
     "mentions_place": true,
     "date": "2026-11-26"
    },
@@ -498,7 +509,7 @@
     "source": "Rádio Pax",
     "source_site": "https://www.radiopax.com/",
     "feed": "https://www.radiopax.com/feed/",
-    "read_at": "2026-11-26T11:16:23Z",
+    "read_at": "2026-11-26T18:31:47Z",
     "mentions_place": true,
     "date": "2026-11-26"
    },
@@ -509,7 +520,7 @@
     "source": "Alentejo Atual (O Atual)",
     "source_site": "https://www.oatual.pt/",
     "feed": "https://www.oatual.pt/feed/",
-    "read_at": "2026-11-26T11:16:13Z",
+    "read_at": "2026-11-26T18:31:37Z",
     "mentions_place": true,
     "date": "2026-11-26"
    },
@@ -520,7 +531,7 @@
     "source": "Alentejo Atual (O Atual)",
     "source_site": "https://www.oatual.pt/",
     "feed": "https://www.oatual.pt/feed/",
-    "read_at": "2026-11-26T11:16:13Z",
+    "read_at": "2026-11-26T18:31:37Z",
     "mentions_place": false,
     "date": "2026-11-26"
    },
@@ -531,7 +542,7 @@
     "source": "Alentejo Atual (O Atual)",
     "source_site": "https://www.oatual.pt/",
     "feed": "https://www.oatual.pt/feed/",
-    "read_at": "2026-11-26T11:16:13Z",
+    "read_at": "2026-11-26T18:31:37Z",
     "mentions_place": false,
     "date": "2026-11-26"
    },
@@ -542,7 +553,7 @@
     "source": "Alentejo Atual (O Atual)",
     "source_site": "https://www.oatual.pt/",
     "feed": "https://www.oatual.pt/feed/",
-    "read_at": "2026-11-26T11:16:13Z",
+    "read_at": "2026-11-26T18:31:37Z",
     "mentions_place": false,
     "date": "2026-11-26"
    },
@@ -553,20 +564,31 @@
     "source": "Alentejo Atual (O Atual)",
     "source_site": "https://www.oatual.pt/",
     "feed": "https://www.oatual.pt/feed/",
-    "read_at": "2026-11-26T11:16:13Z",
+    "read_at": "2026-11-26T18:31:37Z",
     "mentions_place": true,
     "date": "2026-11-26"
    },
    {
-    "title": "LIVRO “O VINHO DE TALHA NO BAIXO ALENTEJO” APRESENTADO EM BEJA",
-    "url": "https://www.oatual.pt/noticias/livro-o-vinho-de-talha-no-baixo-alentejo-apresentado-em-beja",
-    "published": "2026-11-26T00:03Z",
-    "source": "Alentejo Atual (O Atual)",
-    "source_site": "https://www.oatual.pt/",
-    "feed": "https://www.oatual.pt/feed/",
-    "read_at": "2026-11-26T11:16:13Z",
+    "title": "Antena 1 rumou a Beja para dar a conhecer o projeto “O Cante Vai à Escola”",
+    "url": "https://jornaldebeja.sapo.pt/noticias/antena-1-rumou-a-beja-para-dar-a-conhecer-o-projeto-o-cante-vai-a-escola",
+    "published": null,
+    "source": "Jornal de Beja",
+    "source_site": "https://jornaldebeja.sapo.pt/",
+    "feed": "https://jornaldebeja.sapo.pt/feed/",
+    "read_at": "2026-11-26T18:31:43Z",
     "mentions_place": true,
-    "date": "2026-11-26"
+    "date": null
+   },
+   {
+    "title": "Beja é palco da 5.ª Conferência Internacional sobre Criação Digital",
+    "url": "https://jornaldebeja.sapo.pt/noticias/beja-e-palco-da-5-conferencia-internacional-sobre-criacao-digital",
+    "published": null,
+    "source": "Jornal de Beja",
+    "source_site": "https://jornaldebeja.sapo.pt/",
+    "feed": "https://jornaldebeja.sapo.pt/feed/",
+    "read_at": "2026-11-26T18:31:43Z",
+    "mentions_place": true,
+    "date": null
    },
    {
     "title": "D.A.M.A. animam a Passagem do Ano em Beja",
@@ -575,7 +597,7 @@
     "source": "Jornal de Beja",
     "source_site": "https://jornaldebeja.sapo.pt/",
     "feed": "https://jornaldebeja.sapo.pt/feed/",
-    "read_at": "2026-11-26T11:16:19Z",
+    "read_at": "2026-11-26T18:31:43Z",
     "mentions_place": true,
     "date": null
    },
@@ -586,7 +608,7 @@
     "source": "Jornal de Beja",
     "source_site": "https://jornaldebeja.sapo.pt/",
     "feed": "https://jornaldebeja.sapo.pt/feed/",
-    "read_at": "2026-11-26T11:16:19Z",
+    "read_at": "2026-11-26T18:31:43Z",
     "mentions_place": true,
     "date": null
    },
@@ -597,7 +619,7 @@
     "source": "Jornal de Beja",
     "source_site": "https://jornaldebeja.sapo.pt/",
     "feed": "https://jornaldebeja.sapo.pt/feed/",
-    "read_at": "2026-11-26T11:16:19Z",
+    "read_at": "2026-11-26T18:31:43Z",
     "mentions_place": true,
     "date": null
    },
@@ -608,30 +630,8 @@
     "source": "Jornal de Beja",
     "source_site": "https://jornaldebeja.sapo.pt/",
     "feed": "https://jornaldebeja.sapo.pt/feed/",
-    "read_at": "2026-11-26T11:16:19Z",
+    "read_at": "2026-11-26T18:31:43Z",
     "mentions_place": false,
-    "date": null
-   },
-   {
-    "title": "Beja reflete sobre o associativismo com 700 jovens e 200 associações",
-    "url": "https://jornaldebeja.sapo.pt/noticias/beja-reflete-sobre-o-associativismo-com-700-jovens-e-200-associacoes",
-    "published": null,
-    "source": "Jornal de Beja",
-    "source_site": "https://jornaldebeja.sapo.pt/",
-    "feed": "https://jornaldebeja.sapo.pt/feed/",
-    "read_at": "2026-11-26T11:16:19Z",
-    "mentions_place": true,
-    "date": null
-   },
-   {
-    "title": "AF Beja | Resultados | Campeonato Distrital",
-    "url": "https://jornaldebeja.sapo.pt/noticias/af-beja-resultados-campeonato-distrital",
-    "published": null,
-    "source": "Jornal de Beja",
-    "source_site": "https://jornaldebeja.sapo.pt/",
-    "feed": "https://jornaldebeja.sapo.pt/feed/",
-    "read_at": "2026-11-26T11:16:19Z",
-    "mentions_place": true,
     "date": null
    }
   ]
