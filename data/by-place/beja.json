@@ -424,7 +424,7 @@
   }
  ],
  "latest_news": {
-  "read_at": "2026-11-27T07:38Z",
+  "read_at": "2026-11-27T18:38Z",
   "by": "place.beja@PrompTugal.dinis (run by cl-6.places@PrompTugal.dinis)",
   "about": "Headlines read from the place's local outlets' public feeds: headline, link, source and time read only; nothing is copied from the articles. The sources' licences are not cleared by rights@, so these are leads with links, not for republication. Items with mentions_place true name the place in the headline.",
   "main_headline": {
@@ -432,10 +432,87 @@
    "url": "https://lidadornoticias.pt/coesao-social-presidente-da-republica-estara-em-beja-a-4-de-dezembro-no-ambito-segunda-presidencia-aberta/",
    "source": "Lidador Notícias",
    "date": "2026-11-27",
-   "read_at": "2026-11-27T07:30:13Z",
+   "read_at": "2026-11-27T18:30:43Z",
    "names_place": true
   },
   "items": [
+   {
+    "title": "(Última hora) Aljustrel: Casal condenado a 22 anos de prisão por atirar octogenário vivo para dentro de poço.",
+    "url": "https://lidadornoticias.pt/ultima-hora-aljustrel-casal-condenado-a-22-anos-de-prisao-por-atirar-octogenario-vivo-para-dentro-de-poco/",
+    "published": "2026-11-27T17:41Z",
+    "source": "Lidador Notícias",
+    "source_site": "https://lidadornoticias.pt/",
+    "feed": "https://lidadornoticias.pt/feed/",
+    "read_at": "2026-11-27T18:30:43Z",
+    "mentions_place": false,
+    "date": "2026-11-27"
+   },
+   {
+    "title": "Programa Ourique 27-11-2026",
+    "url": "https://www.radiopax.com/programa-ourique-27-11-2026/",
+    "published": "2026-11-27T17:20Z",
+    "source": "Rádio Pax",
+    "source_site": "https://www.radiopax.com/",
+    "feed": "https://www.radiopax.com/feed/",
+    "read_at": "2026-11-27T18:30:45Z",
+    "mentions_place": false,
+    "date": "2026-11-27"
+   },
+   {
+    "title": "Casal condenado a 22 anos de prisão por matar idoso no concelho de Aljustrel",
+    "url": "https://www.radiopax.com/casal-condenado-a-22-anos-de-prisao-por-matar-idoso-no-concelho-de-aljustrel/",
+    "published": "2026-11-27T16:49Z",
+    "source": "Rádio Pax",
+    "source_site": "https://www.radiopax.com/",
+    "feed": "https://www.radiopax.com/feed/",
+    "read_at": "2026-11-27T18:30:45Z",
+    "mentions_place": false,
+    "date": "2026-11-27"
+   },
+   {
+    "title": "CASAL CONDENADO A 22 ANOS DE PRISÃO POR MATAR IDOSO NO CONCELHO DE ALJUSTREL",
+    "url": "https://www.oatual.pt/noticias/casal-condenado-a-22-anos-de-prisao-por-matar-idoso-no-concelho-de-aljustrel",
+    "published": "2026-11-27T16:42Z",
+    "source": "Alentejo Atual (O Atual)",
+    "source_site": "https://www.oatual.pt/",
+    "feed": "https://www.oatual.pt/feed/",
+    "read_at": "2026-11-27T18:30:34Z",
+    "mentions_place": false,
+    "date": "2026-11-27"
+   },
+   {
+    "title": "CÂMARA DE CASTRO VERDE COM ORÇAMENTO DE 23ME PARA 2027",
+    "url": "https://www.oatual.pt/noticias/camara-de-castro-verde-com-orcamento-de-23me-para-2027",
+    "published": "2026-11-27T16:38Z",
+    "source": "Alentejo Atual (O Atual)",
+    "source_site": "https://www.oatual.pt/",
+    "feed": "https://www.oatual.pt/feed/",
+    "read_at": "2026-11-27T18:30:34Z",
+    "mentions_place": false,
+    "date": "2026-11-27"
+   },
+   {
+    "title": "“CONHECER PARA DECIDIR” REFORÇA NO TERRENO CONHECIMENTO SOBRE ÁGUA, INOVAÇÃO E INVESTIMENTO NO REGADIO",
+    "url": "https://www.oatual.pt/noticias/conhecer-para-decidir-reforca-no-terreno-conhecimento-sobre-agua-inovacao-e-investimento-no-regadio",
+    "published": "2026-11-27T11:20Z",
+    "source": "Alentejo Atual (O Atual)",
+    "source_site": "https://www.oatual.pt/",
+    "feed": "https://www.oatual.pt/feed/",
+    "read_at": "2026-11-27T18:30:34Z",
+    "mentions_place": false,
+    "date": "2026-11-27"
+   },
+   {
+    "title": "NOTICIÁRIO 27-11-2026",
+    "url": "https://www.radiopax.com/noticiario-27-11-2026/",
+    "published": "2026-11-27T08:30Z",
+    "source": "Rádio Pax",
+    "source_site": "https://www.radiopax.com/",
+    "feed": "https://www.radiopax.com/feed/",
+    "read_at": "2026-11-27T18:30:45Z",
+    "mentions_place": false,
+    "date": "2026-11-27"
+   },
    {
     "title": "Coesão Social: Presidente da República estará em Beja a 4 de dezembro no âmbito segunda Presidência Aberta.",
     "url": "https://lidadornoticias.pt/coesao-social-presidente-da-republica-estara-em-beja-a-4-de-dezembro-no-ambito-segunda-presidencia-aberta/",
@@ -443,7 +520,7 @@
     "source": "Lidador Notícias",
     "source_site": "https://lidadornoticias.pt/",
     "feed": "https://lidadornoticias.pt/feed/",
-    "read_at": "2026-11-27T07:30:13Z",
+    "read_at": "2026-11-27T18:30:43Z",
     "mentions_place": true,
     "date": "2026-11-27"
    },
@@ -454,7 +531,7 @@
     "source": "Lidador Notícias",
     "source_site": "https://lidadornoticias.pt/",
     "feed": "https://lidadornoticias.pt/feed/",
-    "read_at": "2026-11-27T07:30:13Z",
+    "read_at": "2026-11-27T18:30:43Z",
     "mentions_place": true,
     "date": "2026-11-27"
    },
@@ -465,7 +542,7 @@
     "source": "Lidador Notícias",
     "source_site": "https://lidadornoticias.pt/",
     "feed": "https://lidadornoticias.pt/feed/",
-    "read_at": "2026-11-27T07:30:13Z",
+    "read_at": "2026-11-27T18:30:43Z",
     "mentions_place": false,
     "date": "2026-11-27"
    },
@@ -476,7 +553,7 @@
     "source": "Lidador Notícias",
     "source_site": "https://lidadornoticias.pt/",
     "feed": "https://lidadornoticias.pt/feed/",
-    "read_at": "2026-11-27T07:30:13Z",
+    "read_at": "2026-11-27T18:30:43Z",
     "mentions_place": false,
     "date": "2026-11-27"
    },
@@ -487,7 +564,7 @@
     "source": "Rádio Pax",
     "source_site": "https://www.radiopax.com/",
     "feed": "https://www.radiopax.com/feed/",
-    "read_at": "2026-11-27T07:30:15Z",
+    "read_at": "2026-11-27T18:30:45Z",
     "mentions_place": true,
     "date": "2026-11-27"
    },
@@ -498,7 +575,7 @@
     "source": "Rádio Pax",
     "source_site": "https://www.radiopax.com/",
     "feed": "https://www.radiopax.com/feed/",
-    "read_at": "2026-11-27T07:30:15Z",
+    "read_at": "2026-11-27T18:30:45Z",
     "mentions_place": false,
     "date": "2026-11-27"
    },
@@ -509,41 +586,8 @@
     "source": "Rádio Pax",
     "source_site": "https://www.radiopax.com/",
     "feed": "https://www.radiopax.com/feed/",
-    "read_at": "2026-11-27T07:30:15Z",
+    "read_at": "2026-11-27T18:30:45Z",
     "mentions_place": false,
-    "date": "2026-11-27"
-   },
-   {
-    "title": "Queimar lã é uma péssima ideia? Documentário que atravessa onze países chega hoje a Ourique",
-    "url": "https://www.radiopax.com/queimar-la-e-uma-pessima-ideia-documentario-que-atravessa-onze-paises-chega-hoje-a-ourique/",
-    "published": "2026-11-27T00:09Z",
-    "source": "Rádio Pax",
-    "source_site": "https://www.radiopax.com/",
-    "feed": "https://www.radiopax.com/feed/",
-    "read_at": "2026-11-27T07:30:15Z",
-    "mentions_place": false,
-    "date": "2026-11-27"
-   },
-   {
-    "title": "O futuro do Cante está nas mãos dos mais pequenos: Crianças de Beja juntam as vozes para celebrar uma tradição única",
-    "url": "https://www.radiopax.com/o-futuro-do-cante-esta-nas-maos-dos-mais-pequenos-criancas-de-beja-juntam-as-vozes-para-celebrar-uma-tradicao-unica/",
-    "published": "2026-11-27T00:08Z",
-    "source": "Rádio Pax",
-    "source_site": "https://www.radiopax.com/",
-    "feed": "https://www.radiopax.com/feed/",
-    "read_at": "2026-11-27T07:30:15Z",
-    "mentions_place": true,
-    "date": "2026-11-27"
-   },
-   {
-    "title": "Última oportunidade: UPBeja fecha hoje candidaturas à formação em Gestão de Fundos Europeus",
-    "url": "https://www.radiopax.com/ultima-oportunidade-upbeja-fecha-hoje-candidaturas-a-formacao-em-gestao-de-fundos-europeus/",
-    "published": "2026-11-27T00:07Z",
-    "source": "Rádio Pax",
-    "source_site": "https://www.radiopax.com/",
-    "feed": "https://www.radiopax.com/feed/",
-    "read_at": "2026-11-27T07:30:15Z",
-    "mentions_place": true,
     "date": "2026-11-27"
    },
    {
@@ -553,7 +597,7 @@
     "source": "Alentejo Atual (O Atual)",
     "source_site": "https://www.oatual.pt/",
     "feed": "https://www.oatual.pt/feed/",
-    "read_at": "2026-11-27T07:30:04Z",
+    "read_at": "2026-11-27T18:30:34Z",
     "mentions_place": true,
     "date": "2026-11-27"
    },
@@ -564,7 +608,7 @@
     "source": "Alentejo Atual (O Atual)",
     "source_site": "https://www.oatual.pt/",
     "feed": "https://www.oatual.pt/feed/",
-    "read_at": "2026-11-27T07:30:04Z",
+    "read_at": "2026-11-27T18:30:34Z",
     "mentions_place": false,
     "date": "2026-11-27"
    },
@@ -575,40 +619,7 @@
     "source": "Alentejo Atual (O Atual)",
     "source_site": "https://www.oatual.pt/",
     "feed": "https://www.oatual.pt/feed/",
-    "read_at": "2026-11-27T07:30:04Z",
-    "mentions_place": false,
-    "date": "2026-11-27"
-   },
-   {
-    "title": "BARRANCOS RECEBE PRÉMIO PRESERVAÇÃO E DIVULGAÇÃO DA TAUROMAQUIA",
-    "url": "https://www.oatual.pt/noticias/barrancos-recebe-premio-preservacao-e-divulgacao-da-tauromaquia",
-    "published": "2026-11-27T00:03Z",
-    "source": "Alentejo Atual (O Atual)",
-    "source_site": "https://www.oatual.pt/",
-    "feed": "https://www.oatual.pt/feed/",
-    "read_at": "2026-11-27T07:30:04Z",
-    "mentions_place": false,
-    "date": "2026-11-27"
-   },
-   {
-    "title": "25 VINHOS DO ALENTEJO CONQUISTAM MEDALHAS DE OURO NO CONCURSO DE VINHOS DO CRÉDITO AGRÍCOLA",
-    "url": "https://www.oatual.pt/noticias/25-vinhos-do-alentejo-conquistam-medalhas-de-ouro-no-concurso-de-vinhos-do-credito-agricola",
-    "published": "2026-11-27T00:02Z",
-    "source": "Alentejo Atual (O Atual)",
-    "source_site": "https://www.oatual.pt/",
-    "feed": "https://www.oatual.pt/feed/",
-    "read_at": "2026-11-27T07:30:04Z",
-    "mentions_place": false,
-    "date": "2026-11-27"
-   },
-   {
-    "title": "MOURA: CÂMARA DISTRIBUI PINHEIROS PARA EMBELEZAR O CONCELHO NA ÉPOCA NATALÍCIA",
-    "url": "https://www.oatual.pt/noticias/moura-camara-distribui-pinheiros-para-embelezar-o-concelho-na-epoca-natalicia-2",
-    "published": "2026-11-27T00:01Z",
-    "source": "Alentejo Atual (O Atual)",
-    "source_site": "https://www.oatual.pt/",
-    "feed": "https://www.oatual.pt/feed/",
-    "read_at": "2026-11-27T07:30:04Z",
+    "read_at": "2026-11-27T18:30:34Z",
     "mentions_place": false,
     "date": "2026-11-27"
    },
@@ -619,20 +630,31 @@
     "source": "Lidador Notícias",
     "source_site": "https://lidadornoticias.pt/",
     "feed": "https://lidadornoticias.pt/feed/",
-    "read_at": "2026-11-27T07:30:13Z",
+    "read_at": "2026-11-27T18:30:43Z",
     "mentions_place": false,
     "date": "2026-11-26"
    },
    {
-    "title": "UPBeja: Candidaturas à Pós-Graduação em Gestão de Programas e Fundos Europeus terminam amanhã.",
-    "url": "https://lidadornoticias.pt/upbeja-candidaturas-a-pos-graduacao-em-gestao-de-programas-e-fundos-europeus-terminam-amanha/",
-    "published": "2026-11-26T08:26Z",
-    "source": "Lidador Notícias",
-    "source_site": "https://lidadornoticias.pt/",
-    "feed": "https://lidadornoticias.pt/feed/",
-    "read_at": "2026-11-27T07:30:13Z",
-    "mentions_place": true,
-    "date": "2026-11-26"
+    "title": "Indivíduo de 42 anos em prisão preventiva por crimes de furto qualificado",
+    "url": "https://jornaldebeja.sapo.pt/noticias/individuo-de-42-anos-em-prisao-preventiva-por-crimes-de-furto-qualificado",
+    "published": null,
+    "source": "Jornal de Beja",
+    "source_site": "https://jornaldebeja.sapo.pt/",
+    "feed": "https://jornaldebeja.sapo.pt/feed/",
+    "read_at": "2026-11-27T18:30:41Z",
+    "mentions_place": false,
+    "date": null
+   },
+   {
+    "title": "Encerrada Urgência Obstétrica e Ginecológica do ULS Baixo Alentejo",
+    "url": "https://jornaldebeja.sapo.pt/noticias/encerrada-urgencia-obstetrica-e-ginecologica-do-uls-baixo-alentejo",
+    "published": null,
+    "source": "Jornal de Beja",
+    "source_site": "https://jornaldebeja.sapo.pt/",
+    "feed": "https://jornaldebeja.sapo.pt/feed/",
+    "read_at": "2026-11-27T18:30:41Z",
+    "mentions_place": false,
+    "date": null
    },
    {
     "title": "Antena 1 rumou a Beja para dar a conhecer o projeto “O Cante Vai à Escola”",
@@ -641,7 +663,7 @@
     "source": "Jornal de Beja",
     "source_site": "https://jornaldebeja.sapo.pt/",
     "feed": "https://jornaldebeja.sapo.pt/feed/",
-    "read_at": "2026-11-27T07:30:10Z",
+    "read_at": "2026-11-27T18:30:41Z",
     "mentions_place": true,
     "date": null
    },
@@ -652,7 +674,7 @@
     "source": "Jornal de Beja",
     "source_site": "https://jornaldebeja.sapo.pt/",
     "feed": "https://jornaldebeja.sapo.pt/feed/",
-    "read_at": "2026-11-27T07:30:10Z",
+    "read_at": "2026-11-27T18:30:41Z",
     "mentions_place": true,
     "date": null
    },
@@ -663,7 +685,7 @@
     "source": "Jornal de Beja",
     "source_site": "https://jornaldebeja.sapo.pt/",
     "feed": "https://jornaldebeja.sapo.pt/feed/",
-    "read_at": "2026-11-27T07:30:10Z",
+    "read_at": "2026-11-27T18:30:41Z",
     "mentions_place": true,
     "date": null
    },
@@ -674,30 +696,8 @@
     "source": "Jornal de Beja",
     "source_site": "https://jornaldebeja.sapo.pt/",
     "feed": "https://jornaldebeja.sapo.pt/feed/",
-    "read_at": "2026-11-27T07:30:10Z",
+    "read_at": "2026-11-27T18:30:41Z",
     "mentions_place": true,
-    "date": null
-   },
-   {
-    "title": "Cidade de Beja recebe Patrimónios Cantados até 28 de novembro",
-    "url": "https://jornaldebeja.sapo.pt/noticias/cidade-de-beja-recebe-patrimonios-cantados-ate-28-de-novembro",
-    "published": null,
-    "source": "Jornal de Beja",
-    "source_site": "https://jornaldebeja.sapo.pt/",
-    "feed": "https://jornaldebeja.sapo.pt/feed/",
-    "read_at": "2026-11-27T07:30:10Z",
-    "mentions_place": true,
-    "date": null
-   },
-   {
-    "title": "Congresso da valorização do património vitivinícola da região acontece esta quinta-feira",
-    "url": "https://jornaldebeja.sapo.pt/noticias/congresso-da-valorizacao-do-patrimonio-vitivinicola-da-regiao-acontece-esta-quinta-feira",
-    "published": null,
-    "source": "Jornal de Beja",
-    "source_site": "https://jornaldebeja.sapo.pt/",
-    "feed": "https://jornaldebeja.sapo.pt/feed/",
-    "read_at": "2026-11-27T07:30:10Z",
-    "mentions_place": false,
     "date": null
    }
   ]
