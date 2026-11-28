@@ -424,7 +424,7 @@
   }
  ],
  "latest_news": {
-  "read_at": "2026-11-28T07:37Z",
+  "read_at": "2026-11-28T18:39Z",
   "by": "place.beja@PrompTugal.dinis (run by cl-6.places@PrompTugal.dinis)",
   "about": "Headlines read from the place's local outlets' public feeds: headline, link, source and time read only; nothing is copied from the articles. The sources' licences are not cleared by rights@, so these are leads with links, not for republication. Items with mentions_place true name the place in the headline.",
   "main_headline": {
@@ -432,10 +432,21 @@
    "url": "https://lidadornoticias.pt/beja-d-a-m-a-na-passagem-de-ano-no-parque-de-feiras/",
    "source": "Lidador Notícias",
    "date": "2026-11-28",
-   "read_at": "2026-11-28T07:29:58Z",
+   "read_at": "2026-11-28T18:29:55Z",
    "names_place": true
   },
   "items": [
+   {
+    "title": "NOTICIÁRIO 28-11-2026",
+    "url": "https://www.radiopax.com/noticiario-28-11-2026/",
+    "published": "2026-11-28T10:30Z",
+    "source": "Rádio Pax",
+    "source_site": "https://www.radiopax.com/",
+    "feed": "https://www.radiopax.com/feed/",
+    "read_at": "2026-11-28T18:29:57Z",
+    "mentions_place": false,
+    "date": "2026-11-28"
+   },
    {
     "title": "Beja: D.A.M.A. na Passagem de Ano no Parque de Feiras.",
     "url": "https://lidadornoticias.pt/beja-d-a-m-a-na-passagem-de-ano-no-parque-de-feiras/",
@@ -443,7 +454,7 @@
     "source": "Lidador Notícias",
     "source_site": "https://lidadornoticias.pt/",
     "feed": "https://lidadornoticias.pt/feed/",
-    "read_at": "2026-11-28T07:29:58Z",
+    "read_at": "2026-11-28T18:29:55Z",
     "mentions_place": true,
     "date": "2026-11-28"
    },
@@ -454,7 +465,7 @@
     "source": "Lidador Notícias",
     "source_site": "https://lidadornoticias.pt/",
     "feed": "https://lidadornoticias.pt/feed/",
-    "read_at": "2026-11-28T07:29:58Z",
+    "read_at": "2026-11-28T18:29:55Z",
     "mentions_place": false,
     "date": "2026-11-28"
    },
@@ -465,7 +476,7 @@
     "source": "Lidador Notícias",
     "source_site": "https://lidadornoticias.pt/",
     "feed": "https://lidadornoticias.pt/feed/",
-    "read_at": "2026-11-28T07:29:58Z",
+    "read_at": "2026-11-28T18:29:55Z",
     "mentions_place": false,
     "date": "2026-11-28"
    },
@@ -476,7 +487,7 @@
     "source": "Lidador Notícias",
     "source_site": "https://lidadornoticias.pt/",
     "feed": "https://lidadornoticias.pt/feed/",
-    "read_at": "2026-11-28T07:29:58Z",
+    "read_at": "2026-11-28T18:29:55Z",
     "mentions_place": false,
     "date": "2026-11-28"
    },
@@ -487,7 +498,7 @@
     "source": "Rádio Pax",
     "source_site": "https://www.radiopax.com/",
     "feed": "https://www.radiopax.com/feed/",
-    "read_at": "2026-11-28T07:29:59Z",
+    "read_at": "2026-11-28T18:29:57Z",
     "mentions_place": false,
     "date": "2026-11-28"
    },
@@ -498,7 +509,7 @@
     "source": "Rádio Pax",
     "source_site": "https://www.radiopax.com/",
     "feed": "https://www.radiopax.com/feed/",
-    "read_at": "2026-11-28T07:29:59Z",
+    "read_at": "2026-11-28T18:29:57Z",
     "mentions_place": false,
     "date": "2026-11-28"
    },
@@ -509,7 +520,7 @@
     "source": "Rádio Pax",
     "source_site": "https://www.radiopax.com/",
     "feed": "https://www.radiopax.com/feed/",
-    "read_at": "2026-11-28T07:29:59Z",
+    "read_at": "2026-11-28T18:29:57Z",
     "mentions_place": false,
     "date": "2026-11-28"
    },
@@ -520,7 +531,7 @@
     "source": "Alentejo Atual (O Atual)",
     "source_site": "https://www.oatual.pt/",
     "feed": "https://www.oatual.pt/feed/",
-    "read_at": "2026-11-28T07:29:48Z",
+    "read_at": "2026-11-28T18:29:45Z",
     "mentions_place": false,
     "date": "2026-11-28"
    },
@@ -531,7 +542,7 @@
     "source": "Rádio Pax",
     "source_site": "https://www.radiopax.com/",
     "feed": "https://www.radiopax.com/feed/",
-    "read_at": "2026-11-28T07:29:59Z",
+    "read_at": "2026-11-28T18:29:57Z",
     "mentions_place": false,
     "date": "2026-11-28"
    },
@@ -542,7 +553,7 @@
     "source": "Alentejo Atual (O Atual)",
     "source_site": "https://www.oatual.pt/",
     "feed": "https://www.oatual.pt/feed/",
-    "read_at": "2026-11-28T07:29:48Z",
+    "read_at": "2026-11-28T18:29:45Z",
     "mentions_place": false,
     "date": "2026-11-28"
    },
@@ -553,7 +564,7 @@
     "source": "Alentejo Atual (O Atual)",
     "source_site": "https://www.oatual.pt/",
     "feed": "https://www.oatual.pt/feed/",
-    "read_at": "2026-11-28T07:29:48Z",
+    "read_at": "2026-11-28T18:29:45Z",
     "mentions_place": false,
     "date": "2026-11-28"
    },
@@ -564,7 +575,7 @@
     "source": "Rádio Pax",
     "source_site": "https://www.radiopax.com/",
     "feed": "https://www.radiopax.com/feed/",
-    "read_at": "2026-11-28T07:29:59Z",
+    "read_at": "2026-11-28T18:29:57Z",
     "mentions_place": false,
     "date": "2026-11-28"
    },
@@ -575,7 +586,7 @@
     "source": "Alentejo Atual (O Atual)",
     "source_site": "https://www.oatual.pt/",
     "feed": "https://www.oatual.pt/feed/",
-    "read_at": "2026-11-28T07:29:48Z",
+    "read_at": "2026-11-28T18:29:45Z",
     "mentions_place": false,
     "date": "2026-11-28"
    },
@@ -586,18 +597,7 @@
     "source": "Alentejo Atual (O Atual)",
     "source_site": "https://www.oatual.pt/",
     "feed": "https://www.oatual.pt/feed/",
-    "read_at": "2026-11-28T07:29:48Z",
-    "mentions_place": false,
-    "date": "2026-11-28"
-   },
-   {
-    "title": "Prémio Literário Joaquim Mestre é entregue a Maria Bárbara Loução, pela obra “Aconteceu no Outeiro Bravo”",
-    "url": "https://www.radiopax.com/premio-literario-joaquim-mestre-e-entregue-a-maria-barbara-loucao-pela-obra-aconteceu-no-outeiro-bravo/",
-    "published": "2026-11-28T00:02Z",
-    "source": "Rádio Pax",
-    "source_site": "https://www.radiopax.com/",
-    "feed": "https://www.radiopax.com/feed/",
-    "read_at": "2026-11-28T07:29:59Z",
+    "read_at": "2026-11-28T18:29:45Z",
     "mentions_place": false,
     "date": "2026-11-28"
    },
@@ -608,7 +608,7 @@
     "source": "Alentejo Atual (O Atual)",
     "source_site": "https://www.oatual.pt/",
     "feed": "https://www.oatual.pt/feed/",
-    "read_at": "2026-11-28T07:29:48Z",
+    "read_at": "2026-11-28T18:29:45Z",
     "mentions_place": true,
     "date": "2026-11-28"
    },
@@ -619,7 +619,7 @@
     "source": "Lidador Notícias",
     "source_site": "https://lidadornoticias.pt/",
     "feed": "https://lidadornoticias.pt/feed/",
-    "read_at": "2026-11-28T07:29:58Z",
+    "read_at": "2026-11-28T18:29:55Z",
     "mentions_place": false,
     "date": "2026-11-27"
    },
@@ -630,7 +630,7 @@
     "source": "Lidador Notícias",
     "source_site": "https://lidadornoticias.pt/",
     "feed": "https://lidadornoticias.pt/feed/",
-    "read_at": "2026-11-28T07:29:58Z",
+    "read_at": "2026-11-28T18:29:55Z",
     "mentions_place": true,
     "date": "2026-11-27"
    },
@@ -641,7 +641,7 @@
     "source": "Jornal de Beja",
     "source_site": "https://jornaldebeja.sapo.pt/",
     "feed": "https://jornaldebeja.sapo.pt/feed/",
-    "read_at": "2026-11-28T07:29:55Z",
+    "read_at": "2026-11-28T18:29:52Z",
     "mentions_place": false,
     "date": null
    },
@@ -652,7 +652,7 @@
     "source": "Jornal de Beja",
     "source_site": "https://jornaldebeja.sapo.pt/",
     "feed": "https://jornaldebeja.sapo.pt/feed/",
-    "read_at": "2026-11-28T07:29:55Z",
+    "read_at": "2026-11-28T18:29:52Z",
     "mentions_place": false,
     "date": null
    },
@@ -663,7 +663,7 @@
     "source": "Jornal de Beja",
     "source_site": "https://jornaldebeja.sapo.pt/",
     "feed": "https://jornaldebeja.sapo.pt/feed/",
-    "read_at": "2026-11-28T07:29:55Z",
+    "read_at": "2026-11-28T18:29:52Z",
     "mentions_place": true,
     "date": null
    },
@@ -674,7 +674,7 @@
     "source": "Jornal de Beja",
     "source_site": "https://jornaldebeja.sapo.pt/",
     "feed": "https://jornaldebeja.sapo.pt/feed/",
-    "read_at": "2026-11-28T07:29:55Z",
+    "read_at": "2026-11-28T18:29:52Z",
     "mentions_place": true,
     "date": null
    },
@@ -685,7 +685,7 @@
     "source": "Jornal de Beja",
     "source_site": "https://jornaldebeja.sapo.pt/",
     "feed": "https://jornaldebeja.sapo.pt/feed/",
-    "read_at": "2026-11-28T07:29:55Z",
+    "read_at": "2026-11-28T18:29:52Z",
     "mentions_place": true,
     "date": null
    },
@@ -696,7 +696,7 @@
     "source": "Jornal de Beja",
     "source_site": "https://jornaldebeja.sapo.pt/",
     "feed": "https://jornaldebeja.sapo.pt/feed/",
-    "read_at": "2026-11-28T07:29:55Z",
+    "read_at": "2026-11-28T18:29:52Z",
     "mentions_place": true,
     "date": null
    }
